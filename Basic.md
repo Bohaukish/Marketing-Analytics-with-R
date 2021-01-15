@@ -1,5 +1,7 @@
 https://www.udemy.com/course/marketing-analytics-with-r-2020/learn/lecture/20628480#overview
 
+环境： R Studio Cloud 用的github登入
+
 https://rstudio.cloud/projects
 
 
@@ -15,7 +17,6 @@ Need for Analytics: Cost reduction, better marketing and product analysis, organ
 
 ![](https://tva1.sinaimg.cn/large/008eGmZEly1gmn0o4nqz5j31840ps1kx.jpg)
 
-环境： R Studio Cloud 用的github账号登入
 
 ## Importing and Exporting Data
 
